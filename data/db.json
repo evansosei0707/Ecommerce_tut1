@@ -1,0 +1,27 @@
+{
+  "cartItems" : [
+    {
+      "id": 1,
+      "title": "Samsung Galaxy S7",
+      "price": 599.99,
+      "img": "",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S7",
+      "price": 599.99,
+      "img": "",
+      "amount": 1
+    },
+    {
+      "id": 3,
+      "title": "Samsung Galaxy S7",
+      "price": 599.99,
+      "img": "",
+      "amount": 1
+    }
+   
+  ]
+  
+}
